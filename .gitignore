@@ -28,3 +28,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/ProjectSettings.json
+/.vs/VSWorkspaceState.json
